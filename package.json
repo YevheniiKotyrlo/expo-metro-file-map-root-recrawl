@@ -1,0 +1,10 @@
+{
+  "name": "expo-metro-file-map-root-recrawl",
+  "private": true,
+  "scripts": {
+    "repro": "node repro.mjs"
+  },
+  "dependencies": {
+    "@expo/metro-file-map": "^58.0.5"
+  }
+}
